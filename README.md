@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I’m Soma Bini  
 
-<!--
-**rickyseezy/rickyseezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Solutions Architect / Technical Project Manager** based in Dubai 🇦🇪  
+I help startups go from **0→1** — designing cloud architectures, leading teams, and shipping scalable, production-ready systems.
 
-Here are some ideas to get you started:
+🔧 **Tech Stack:**  
+Golang • NodeJS • TypeScript • React • NextJS • Docker • Kubernetes • Terraform • AWS • GCP • MongoDB • PostgreSQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Recent Projects:**  
+- **Heex Technologies** – rebuilt a deep-tech AI platform (Go, Mongo, K8s, Terraform)  
+- **Survaii** – AI-driven survey & rewards platform (crypto + fiat)  
+- **Broke & Abroad** – 300K+ community travel startup (Next.js + Go + AWS)  
+- **Jidwork** – on-demand workforce marketplace (Next.js + Go + GCP)
+
+💬 Passionate about early-stage products, mentoring teams, and solving complex scalability challenges.  
+📧 [binisoma@gmail.com](mailto:binisoma@gmail.com) | 🌍 [LinkedIn](https://linkedin.com/in/somabini)
