@@ -37,4 +37,4 @@ I’ve worked with both founders and enterprise teams — delivering impact, men
 ---
 
 📧 [binisoma@gmail.com](mailto:binisoma@gmail.com)  
-🌍 [LinkedIn](https://linkedin.com/in/somabini)
+🌍 [LinkedIn](https://linkedin.com/in/soma-bini)
