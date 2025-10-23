@@ -143,26 +143,9 @@ Each of these projects started from a blank repo — I handled the architecture,
   <img src="./projects/jidwork/8.png" width="3840"/>
 </p>
 
-### 💼 Intuitions VC
-
-**Context:** A private equity fund backed by athletes like Raphael Varane and Axel Toupane wanted a sleek online presence reflecting their high-end brand.
-
-**My Role:** Designed and developed a responsive landing page with Next.js, focusing on minimalism, clarity, and high performance.
-
-**Impact:** Delivered a visually elegant website that elevated the fund’s image and SEO visibility, with future scalability for investor features.
-
-**Stack:** Next.js • TypeScript • Vercel
-
-<p align="center">
-  <img src="./projects/intuition/1.png" width="3840"/>
-  <img src="./projects/intuition/2.png" width="3840"/>
-  <img src="./projects/intuition/3.png" width="3840"/>
-  <img src="./projects/intuition/4.png" width="3840"/>
-</p>
-
 ### 🧭 Les Prochains Leaders
 
-**Context:** Non-profit founded by NBA champion Axel Toupane to empower young entrepreneurs.  
+**Context:** Non-profit founded by NBA champion Axel Toupane to empower young entrepreneurs.
 
 **My Role:** Built a custom landing page with Next.js instead of WordPress to better reflect the mission and brand storytelling.
 
@@ -180,6 +163,23 @@ Each of these projects started from a blank repo — I handled the architecture,
   <img src="./projects/lpl/7.png" width="3840"/>
   <img src="./projects/lpl/8.png" width="3840"/>
   <img src="./projects/lpl/9.png" width="3840"/>
+</p>
+
+### 💼 Intuitions VC
+
+**Context:** A private equity fund backed by athletes like Raphael Varane and Axel Toupane wanted a sleek online presence reflecting their high-end brand.
+
+**My Role:** Designed and developed a responsive landing page with Next.js, focusing on minimalism, clarity, and high performance.
+
+**Impact:** Delivered a visually elegant website that elevated the fund’s image and SEO visibility, with future scalability for investor features.
+
+**Stack:** Next.js • TypeScript • Vercel
+
+<p align="center">
+  <img src="./projects/intuition/1.png" width="3840"/>
+  <img src="./projects/intuition/2.png" width="3840"/>
+  <img src="./projects/intuition/3.png" width="3840"/>
+  <img src="./projects/intuition/4.png" width="3840"/>
 </p>
 
 ---
