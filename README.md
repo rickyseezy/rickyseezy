@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Soma Bini  
 
-🚀 **CTO / Senior Software Engineer / Startup Builder** based in Dubai 🇦🇪  
+🚀 **CTO / Senior Software Engineer / Startup Builder**
 With over **10 years of experience in early-stage startups**, I help founders and teams go from **0 → 1** — designing scalable architectures, leading engineering teams, and shipping reliable, production-ready systems fast.  
 
 I’m deeply passionate about building strong engineering cultures, turning MVPs into scalable products, and aligning tech strategy with business impact.  
